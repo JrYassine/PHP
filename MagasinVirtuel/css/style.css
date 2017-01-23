@@ -1,0 +1,149 @@
+body{
+    font-family:'Palatino Linotype';
+    margin:0px;
+    padding:0px;
+}
+
+nav{
+   width:100%;
+   border: 1px solid ;
+   border-color : white;
+   margin: 0px auto;
+   background-color:#424558;
+   border-radius: 10px;
+
+}
+
+.descriptionProduit{
+    color:black;
+    float:right;
+    position:relative;
+    width:280px;
+    height:250px;
+    right:55%;
+    top: 8px;
+    border: 2px #109DE3 inset;
+   
+}
+#sidebar {
+	position:absolute; 
+	width:190px;
+        height:700px;
+        background-color:#424558;
+}
+
+#sidebar a {
+    display:inline-block;
+    text-decoration:none;
+    padding : 20px 30px;
+    color: #FFF;
+}
+
+#sidebar ul{
+    margin:0px;
+    padding:0px;
+    overflow: hidden;
+}
+
+#sidebar li {
+    display: inline;
+    margin: 30px;
+    font-size:18px;
+    list-style-type: none;
+}
+
+#contenu{
+    position:relative;
+    left:200px;
+}
+
+.ficheProduit{
+    font-size:20px;
+    text-decoration: underline;
+    color:black;
+}
+
+.ajouterPanier{
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    width:120px;
+    height:20px;
+
+    text-decoration: none;
+    color: initial;
+    
+    position:relative;
+    left:8%;
+    margin-bottom:10px;
+}
+
+.classFiche{
+    position:relative;
+    left:8%;
+    margin-bottom:10px;
+   
+}
+
+
+li{
+	display: inline;
+	margin: 30px;
+        font-size:18px;
+        list-style-type: none;
+}
+
+nav a {
+    display:inline-block;
+    text-decoration:none;
+    padding : 20px 30px;
+    color: #FFF;
+}
+
+nav li {
+    list-style-type:none;
+    float:left;
+}
+
+nav ul{
+    margin:0px;
+    padding:0px;
+    overflow: hidden;
+}
+a{
+	text-decoration:none;
+	color:#FEFEFE;
+}
+
+a:hover{
+	color:#03F42C;
+}
+
+.logo{
+	font-size:40px;
+}
+
+.Rayon{
+	color:#FEFEFE;
+        font-size:18px;
+}
+
+.tablePanier table {
+border: medium solid #000000;
+width: 50%;
+}
+.tablePanier td, th {
+border: thin solid #6495ed;
+width: 300px;
+}
+
+.supprimer{
+    font-size:12px;
+    text-decoration: underline;
+    color:blue;
+    
+}
+
+.supprimer:hover{
+    color:red;
+}

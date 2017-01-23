@@ -1,0 +1,33 @@
+body{
+    font-family:'Palatino Linotype';
+}
+
+
+nav{
+    width:100%;
+   border: 1px solid ;
+   border-color : white;
+   margin: 0px auto;
+   background-color:#424558;
+}
+
+
+li{
+	display: inline;
+        margin: 30px;
+        font-size:18px;
+        list-style-type: none;
+}
+
+a{
+    display:inline-block;
+    text-decoration:none;
+    padding : 20px 30px;
+    color: #FFF;
+}
+
+a:hover{
+	color:#03F42C;
+}
+
+
