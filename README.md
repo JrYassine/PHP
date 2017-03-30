@@ -6,4 +6,3 @@ Le site peut proposer tout type de produits(alimentaire,informatique,electromena
 
 J'ai programmé le site en utilisant une architecture MVC, la partie front-end a été complètement délaissé pour l'instant car je travaille en ce moment sur d'autres projets universitaires et donc je n'ai pas eu le temps pour la réaliser.
 
-Voici le lien du site : http://jradmagasinvirtuel.livehost.fr/MagasinVirtuel/View/index.php 
