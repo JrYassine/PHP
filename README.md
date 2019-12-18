@@ -6,5 +6,5 @@ Le site peut proposer tout type de produits (alimentaire,informatique,electromen
 
 
 # Architecture
-J'ai utilisé le modèle MVC car je voulais que la couche front-end ne soit pas impacté par la partie back-end que nous devons réaliser, ainsi n'importe qui peut très bien modifié la front-end sans que cela n'ait d'impact sur la partie front-end et inversement.
+J'ai utilisé le modèle MVC car je voulais que la couche front-end ne soit pas impacté par la partie back-end que nous devons réaliser, ainsi n'importe qui peut très bien modifié la front-end sans que cela n'ait d'impact sur la partie back-end et inversement.
 
